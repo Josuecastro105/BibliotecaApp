@@ -75,9 +75,9 @@ namespace BibliotecaApp.Forms
             Controls.Add(header);
         }
 
-        // ================================================================
-        // TAB LIBROS
-        // ================================================================
+        // =============
+        // TAB libros
+        // =============
         private TabPage CrearTabLibros()
         {
             var tab = new TabPage("  Libros  ");
@@ -161,9 +161,9 @@ namespace BibliotecaApp.Forms
             }
         }
 
-        // ================================================================
-        // TAB USUARIOS
-        // ================================================================
+        // ========================
+        // TAB usuarios
+        // ========================
         private TabPage CrearTabUsuarios()
         {
             var tab = new TabPage("  Usuarios  ");

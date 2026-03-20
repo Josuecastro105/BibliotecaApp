@@ -6,9 +6,9 @@ using BibliotecaApp.Models;
 
 namespace BibliotecaApp.Services
 {
-    // ----------------------------------------
+    // -------------------
     // Servicio de Libros
-    // ----------------------------------------
+    // --------------------
     public class ServicioLibros
     {
         private List<Libro> _lista;
@@ -86,9 +86,9 @@ namespace BibliotecaApp.Services
         }
     }
 
-    // ----------------------------------------
+    // -----------------------
     // Servicio de Usuarios
-    // ----------------------------------------
+    // -----------------------
     public class ServicioUsuarios
     {
         private List<Usuario> _lista;
@@ -147,9 +147,9 @@ namespace BibliotecaApp.Services
         }
     }
 
-    // ----------------------------------------
+    // -----------------------
     // Servicio de Prestamos
-    // ----------------------------------------
+    // ----------------------
     public class ServicioPrestamos
     {
         private List<Prestamo> _lista;

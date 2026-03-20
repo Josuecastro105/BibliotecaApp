@@ -1,0 +1,24 @@
+## .NET / C#
+bin/
+obj/
+*.user
+*.suo
+.vs/
+dist/
+dist32/
+publish/
+*.exe
+*.dll
+*.pdb
+
+## Datos generados en runtime (privados, no subir)
+datos/
+
+## NuGet
+packages/
+*.nupkg
+
+## OS
+.DS_Store
+Thumbs.db
+desktop.ini
